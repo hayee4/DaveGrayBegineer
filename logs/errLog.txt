@@ -1,1 +1,3 @@
-20230206	16:45:42	c50989a8-f05a-4cca-b67c-7017968bb035	TypeError: fsPromises.readFle is not a function
+20230206	22:15:53	b3785642-9e70-4027-a2d8-8b58df09e344	Error: Not allowed by CORS
+20230206	22:16:06	b1e06843-669f-4d88-872e-f4a110841a3a	Error: Not allowed by CORS
+20230206	22:16:27	65399706-ee14-4956-bb75-f1c4f3391a90	Error: Not allowed by CORS
