@@ -1,3 +1,6 @@
 20230206	22:15:53	b3785642-9e70-4027-a2d8-8b58df09e344	Error: Not allowed by CORS
 20230206	22:16:06	b1e06843-669f-4d88-872e-f4a110841a3a	Error: Not allowed by CORS
 20230206	22:16:27	65399706-ee14-4956-bb75-f1c4f3391a90	Error: Not allowed by CORS
+20230209	09:21:54	7fe77457-3416-4f1e-993e-fcfadcfe304c	ReferenceError: autheader is not defined
+20230209	09:23:53	c474e3c8-78be-42e9-abff-4504762fa95c	ReferenceError: autheader is not defined
+20230210	12:56:47	3b940ba1-cea0-49d0-a9ae-e20c09602f69	ReferenceError: autheader is not defined
