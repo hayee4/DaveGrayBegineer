@@ -154,3 +154,5 @@
 20230210	14:40:25	d23f550a-de40-457f-a71b-1ef2bbcb42ab	DELETE	undefined	/employees
 20230210	14:40:41	9fc05e6f-c53d-42ab-9bf3-3f6f17e88421	POST	undefined	/auth
 20230210	14:40:56	b4a2f54b-04a4-4c32-905d-94211b304483	DELETE	undefined	/employees
+20230210	15:39:40	5c3436cf-7949-4df5-b0f9-7e15d35a2ebb	POST	undefined	/register
+20230210	15:40:25	9759ef67-740e-454e-9c36-2bfe00b08fbc	POST	undefined	/register
